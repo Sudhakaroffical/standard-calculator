@@ -103,7 +103,8 @@ Publish the website in the given URL.
 ```
 ## OUTPUT:
 ### calculator
-![saveetha_logo1](https://user-images.githubusercontent.com/118622513/214917982-2df8a784-f0ef-4022-91f7-b754b34fa596.png)
+![Screenshot (34)](https://user-images.githubusercontent.com/118622513/214918701-1ca5da1d-e4fc-49a6-9430-acf71bc0cdfa.png)
+
 
 
 ## Result:
